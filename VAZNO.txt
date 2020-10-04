@@ -4,3 +4,5 @@
 3. skratio pozadinu dugmeta(kao display:inline-block) 
 	align-items-start (klasa u Bootstrapu
 4. 1:22: minuta ufooteru radi flex 
+5. 1:43 pozicioniranje u Blog-u blog.html slike i text sa flex-boxom
+6. 1:45 Order funkcija u flex-u kojom mozemo da menjamo redosled prikazivanja elemenata

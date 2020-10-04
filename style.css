@@ -134,3 +134,30 @@ footer a:hover {
     color: var(--text);
     transition: var(--transition);
 }
+
+/******* BLOG *******/
+
+.blog h2 {
+    color: var(--pink);
+}
+.blog .lead {
+    font-size: 1.5rem;
+    color: var(--pink);
+}
+.blog .jumbotron {
+    background: white !important;
+}
+
+/******* POSTOVI *******/
+.strawberry {
+    background-image: url(img/jagoda.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 60vh;
+}
+.lemon {
+    background-image: url(img/limun.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 60vh;
+}
