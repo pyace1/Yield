@@ -90,10 +90,21 @@ h1, h2, h3, h4, h5, h6 {
     color: var(--text);
 }
 
+/******* ABOUT *******/
 
+.about h5, .about h3 {
+    color: var(--pink);
+}
 
+/******* WATERMELON *******/
 
-
+.watermelon {
+    background-image: linear-gradient(rgba(255,255,255,.5),rgba(255,255,255,.5)), url(img/watermellon.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 60vh;
+    background-attachment: fixed;
+}
 
 
 

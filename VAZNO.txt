@@ -1,0 +1,5 @@
+1. na nav-u desne ikonice odradio u flexu
+2. u 51 minutu uradjen display flex da bi pozicionirao text unutar sekcije About
+	"d-flex flex-column justify-content-center"
+3. skratio pozadinu dugmeta(kao display:inline-block) 
+	align-items-start (klasa u Bootstrapu
