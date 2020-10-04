@@ -106,5 +106,20 @@ h1, h2, h3, h4, h5, h6 {
     background-attachment: fixed;
 }
 
+/******* TEAM *******/
+
+.team h2 {
+    color: var(--pink);
+    padding-bottom: 20px;
+    font-size: 3rem;
+}
+.team h4 {
+    color: white;
+    background: var(--pink);
+    padding: 5px;
+}
+.team img {
+    box-shadow: 0 0 30px gray;
+}
 
 
