@@ -13,6 +13,18 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Roboto', sans-serif;
 }
+.btn {
+    background: var(--orange);
+    border-right: 0;
+    padding: 10px 20px;
+    color: white;
+    text-transform: uppercase;
+}
+.btn:hover {
+    background: var(--pink);
+    color: white;
+    transformation: var(--transformation);
+}
 /***************
     Navigacija
 ***************/
@@ -60,8 +72,23 @@ h1, h2, h3, h4, h5, h6 {
     color: var(--pink) !important;
     
 }
+/******* SLIDER *******/
 
-
+.carousel-caption {
+    bottom: 32px;
+}
+.carousel-caption h5 {
+    color: var(--pink);
+    font-size: 2rem;
+}
+.carousel-caption .lead {
+    color: var(--orange);
+    font-size: 2.5rem;
+    text-transform: uppercase;
+}
+.carousel-caption p {
+    color: var(--text);
+}
 
 
 
